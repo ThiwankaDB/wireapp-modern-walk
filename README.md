@@ -8,7 +8,7 @@ This guide outlines the steps to install dependencies, run the application in de
 
 ## Clone
 
-**Clone the repository:** If you haven't already, clone this repository using Git: `git clone https://your-github-repo-url.git`
+**Clone the repository:** If you haven't already, clone this repository using Git: `git clone https://github.com/ThiwankaDB/wireapp-modern-walk.git`
 
 ## Installation
 
