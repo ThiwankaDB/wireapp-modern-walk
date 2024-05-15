@@ -1,0 +1,11 @@
+@import 'variable';
+@import 'typography';
+
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+
+// custom components and pages
+@import 'layout';
+@import 'loading';
+@import 'product-cards-set';
+@import 'product-card';
+@import 'product-category-card';
